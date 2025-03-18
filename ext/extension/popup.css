@@ -1,0 +1,52 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #e0f7fa; /* Soft light blue background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 25px 40px;
+  width: 350px;
+  border: 2px solid #80deea; /* Light blue border */
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #00796b; /* Teal for a balanced blue-green tone */
+}
+
+button {
+  background-color: #0288d1; /* Medium blue for buttons */
+  color: #ffffff;
+  border: none;
+  border-radius: 20px;
+  padding: 12px 30px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 3px 6px rgba(2, 136, 209, 0.4);
+  transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+button:hover {
+  background-color: #0277bd; /* Slightly darker blue on hover */
+  box-shadow: 0 5px 10px rgba(2, 119, 189, 0.3);
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+button:focus {
+  outline: none;
+  box-shadow: 0 0 8px rgba(2, 119, 189, 0.6);
+}
