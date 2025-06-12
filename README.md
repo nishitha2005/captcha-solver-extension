@@ -19,4 +19,4 @@ YOLO Model was trained for 50 epochs, achieving a precision of 97.3% and a recal
 CNN Model was trained for 20 epochs, achieving a validation accuracy of 98.67%, outperforming traditional CNNs.
 
 ## Demo Video
-[![Watch the demo](https://drive.google.com/file/d/1HcE60CTV0bGbzw_WbpFrJ8CQ9C-g5CRl/view?usp=sharing)
+[Click here to watch the demo](https://drive.google.com/file/d/1HcE60CTV0bGbzw_WbpFrJ8CQ9C-g5CRl/view?usp=drive_link)
