@@ -17,3 +17,6 @@ Once the CAPTCHA is solved by the deep learning models, the decoded text is auto
 # YOLO and CNN Performance Metrics
 YOLO Model was trained for 50 epochs, achieving a precision of 97.3% and a recall of 95.9% for character detection.
 CNN Model was trained for 20 epochs, achieving a validation accuracy of 98.67%, outperforming traditional CNNs.
+
+## Demo Video
+[![Watch the demo](https://drive.google.com/file/d/1HcE60CTV0bGbzw_WbpFrJ8CQ9C-g5CRl/view?usp=sharing)
